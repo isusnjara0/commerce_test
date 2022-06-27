@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.show{
+    visibility: visible !important;
+}
+.like{
+    color: darkred;
+}
+.light{
+    background-color:wheat !important;
+}
+
+.pdf-p{
+    padding: 4rem;
+}
+
+.pdf-b{
+    padding-bottom: 1.5rem;
+}
